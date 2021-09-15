@@ -1,0 +1,20 @@
+{
+	"name": "top-mobile-telegram-bot",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"nodemon": "^2.0.12"
+	},
+	"dependencies": {
+		"axios": "^0.21.4",
+		"jsdom": "^17.0.0",
+		"telegraf": "^4.4.2"
+	}
+}
